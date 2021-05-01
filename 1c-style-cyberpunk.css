@@ -1,0 +1,229 @@
+@import url(//db.onlinewebfonts.com/c/a082fd3df68a0b54e0d4d794bc38d268?family=Blender+Pro);
+
+#VW_page1headerTopLine_cmdf_FavButton{
+  width: 0;
+}
+
+.select .gridBox:first-of-type .gridBoxImg .dIB {
+  background-image: url(https://cdn1.iconfinder.com/data/icons/cyberpunk-2d-rpg-game-items-weapons-armour-face-he/26/CYBER-GAME_--12-512.png) !important;
+  background-size: 100%;
+}
+
+.markIncomplete:after {
+  border-bottom: 1px dotted #f0eb00 !important;
+}
+
+.btns>.btn {
+  background-color: #000 !important;
+}
+
+.inputs,
+.btns {
+  border: 2px solid;
+  background-color: #000;
+}
+
+.fieldNoBorder .inputs,
+.fieldNoBorder .btns,
+.fieldNoBorder .inputs:after,
+.fieldNoBorder .btns:after {
+  border-color: #f0eb00 !important;
+  border: 2px solid;
+}
+
+.select.gridLine .gridBox:before {
+  background-color: #f0eb00 !important;
+}
+
+.editInput,
+.editArea {
+  color: #f0eb00;
+  background: #000000;
+}
+
+.pressButton {
+  border-radius: 20px;
+}
+
+.gridLineEven {
+  background: none;
+}
+
+.focus.select.gridLine:after,
+.focus.gridBox .gridBoxTitle {
+  border-color: #000000;
+}
+
+.press i {
+  background-color: #000000;
+  border: none;
+  border-radius: 20px;
+}
+
+.pressButton .pressBoxTitle,
+.pressBox {
+  color: #f0eb00;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-family: 'Blender Pro';
+
+}
+
+label.ellipsis {
+  background: #202020;
+  color: #02d8f3;
+  text-transform: uppercase;
+}
+
+.focusFrame {
+  display: none !important;
+}
+
+.captionbarFieldPlaceHolder {
+  left: 10px !important;
+}
+
+#form0_НадписьЯрлык {
+  color: rgb(240, 235, 0) !important;
+  text-transform: uppercase;
+  width: 206px;
+  background-color: black;
+}
+
+#form0_НадписьЯрлык_div{
+  width: 206px !important;
+}
+
+.staticTextHyper {
+  color: white;
+  font-family: 'Blender Pro';
+  font-weight: bold;
+  width: max-content !important;
+}
+
+#form0_ТонкийКлиент#text_div {
+  left: 400px !important;
+}
+
+#themesCell_theme_1 div:first-of-type {
+  width: 32px;
+  height: 32px;
+  background-image: url(https://cdn1.iconfinder.com/data/icons/cyberpunk-2d-rpg-game-items-weapons-armour-face-he/26/CYBER-GAME_--23-512.png) !important;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+#themesCell {
+  font-family: 'Blender Pro';
+  background-image: url(https://upload.wikimedia.org/wikipedia/ru/thumb/b/bb/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D0%B8%D0%B3%D1%80%D1%8B_Cyberpunk_2077.jpg/274px-%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D0%B8%D0%B3%D1%80%D1%8B_Cyberpunk_2077.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-color: #f0eb00;
+}
+
+#openedCell_itemBox_0 svg {
+  fill: #cdcdcd
+}
+
+.select.openedItem:before {
+  background: #02d8f3;
+}
+
+#openedCell_itemBox_0 div {
+  background-color: #000 !important;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: "Blender Pro";
+  text-transform: uppercase;
+  color: #cdcdcd;
+}
+
+#openedCell_cont {
+  background-color: #000;
+  border-top: 1px solid #979797;
+}
+
+#captionbarTitle,
+#captionbar1C,
+#captionbarFunction svg {
+  color: #ff003c;
+  fill: #ff003c;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: "Blender Pro"
+}
+
+#captionbar {
+  background-color: #000;
+}
+
+#captionbarField .captionbarFieldIco {
+  display: none;
+}
+
+#captionbarLogo svg {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+#captionbarLogo {
+  background-image: url(https://www.cyberpunk.net/build/images/logo-en-28275215.png);
+  background-size: 100%;
+  width: 113px;
+  height: 27px;
+  background-repeat: no-repeat;
+}
+
+#page1 {
+  background-image: url(https://www.cyberpunk.net/build/images/home3/screen-image-about-768457e5.jpg);
+  font-family: 'Blender Pro';
+}
+
+#form0_ГрафическаяСхема {
+  opacity: 0.8;
+}
+
+#VW_page1headerTopLine {
+  background: #000
+}
+
+.toplineBox:after {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #f8ef00;
+  line-height: 1.2;
+  font-family: "Blender Pro";
+  top:4px
+}
+
+
+.topline svg,
+.captionbarIco svg,
+#LogoutButton {
+  fill: #cdcdcd;
+  color: #cdcdcd;
+}
+
+#VW_page1headerTopLine_cmdf_FavButton svg {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+
+#form0_НадписьWebКлиент_div {
+  height: 50px;
+  background-color: #02d8f3;
+  padding-left: 5px;
+  top: 0;
+  text-decoration: none;
+  font-family: BlenderProBold, sans-serif !important;
+  font-weight: 700 !important;
+  color: #000 !important;
+  width: 357px !important;
+}
+
+#form0_НадписьWebКлиент {
+  color: #000 !important;
+}

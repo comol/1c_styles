@@ -1,0 +1,135 @@
+#VW_page1ps0win {
+  background: #2B3648 !important;
+}
+
+#VW_page1ps0win svg {
+  stroke: #1976D2 !important;
+  fill: #1976D2 !important;
+}
+
+#VW_page1ps0win .topline {
+  background: #212936;
+}
+
+#VW_page1ps0win .toplineBox:after,
+#VW_page1ps0win .pressDrop:after {
+  color: #AFBDD1;
+}
+
+#VW_page1ps0win .mainGroup.fullSize {
+  top: 10px;
+}
+
+#VW_page1ps0win .tabControlContainer {
+  background: #212936 !important;
+  border: none !important;
+  border-radius: 4px;
+}
+
+#VW_page1ps0win #form1_СтраницаПараметры_div {
+  background: #212936 !important;
+  border: none !important;
+}
+
+#VW_page1ps0win .tabsH:after {
+  display: none;
+}
+
+#VW_page1ps0win .press i {
+  background: #1976D2;
+  border-radius: 4px;
+}
+
+#VW_page1ps0win .pressBox {
+  color: #FFFFFF;
+}
+
+#VW_page1ps0win .commandSeparatorCompact .press i {
+  background: #212936;
+  border: none;
+}
+
+#VW_page1ps0win .ellipsis {
+  color: #AFBDD1;
+}
+
+#VW_page1ps0win .select.tabsItem:before {
+  background: #212936;
+  border-bottom-color: transparent;
+}
+
+#VW_page1ps0win .tabsTop .tabsItem {
+  width: 100px;
+  border-radius: 6px 6px 0 0;
+}
+
+#VW_page1ps0win .tabsItem:before {
+  border-radius: 4px 4px 0 0;
+  border-color: #212936;
+  background: #313C4E;
+}
+
+#VW_page1ps0win .select .tabsItemTitle {
+  color: #1976D2;
+}
+
+#VW_page1ps0win .tabsItemTitle {
+  width: 100%;
+  color: #AFBDD1;
+}
+
+#VW_page1ps0win .eActivityBack {
+  background-color: #1976D2;
+}
+
+#VW_page1ps0win .focus.select.gridLine:after,
+#VW_page1ps0win .focus.gridBox .gridBoxTitle {
+  border-color: #1976D2;
+}
+
+#VW_page1ps0win .gridHead .gridBox {
+  background: #AFBDD1;
+  border: none;
+  border-bottom: 1px solid #313C4E;
+}
+
+#VW_page1ps0win .gridHead .gridBox:before {
+  border: none;
+}
+
+#VW_page1ps0win .focusFrame {
+  background: #1976D2;
+}
+
+#VW_page1ps0win .inputs {
+  background-color: #212936;
+}
+
+#VW_page1ps0win .btn:not(.iSB) {
+  background-color: #AFBDD1;
+  border-color: #AFBDD1;
+}
+
+#VW_page1ps0win .field {
+  border-color: #212936;
+}
+
+#VW_page1ps0win .inputsBox {
+  color: #AFBDD1;
+}
+
+#VW_page1ps0win .btns>.btn {
+  margin: 0;
+}
+
+#VW_page1ps0win .imageContainer {
+  border: none !important;
+}
+
+#VW_page1ps0win .gridHead .gridBoxText {
+  font-weight: 700;
+}
+
+#VW_page1ps0win .gridHL .gridBody .gridLine:after {
+  border-top: 1px solid #313C4E;
+}

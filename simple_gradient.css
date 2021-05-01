@@ -1,0 +1,86 @@
+#captionbarLogo,
+.gridBoxImg {
+    display: none !important;
+}
+
+.frameTheme {
+    background-image: linear-gradient(180.32deg, rgba(0, 0, 0, 0) 50.75%, #000000 103.53%, rgba(0, 0, 0, 0.75) 129.5%);
+    background-color: #4D5EBF;
+}
+
+#openedCell_cont {
+    background-image: linear-gradient(79.26deg, #4D5EBF 0%, rgba(77, 94, 191, 0) 100%), linear-gradient(259.81deg, rgba(23, 23, 23, 0.85) -30.8%, rgba(23, 23, 23, 0) 97.6%);
+    background-color: #171717;
+}
+
+.openedHor .select.openedItem {
+    background: #4D5EBF;
+    color: #FFFFFF;
+}
+
+.openedHor .select.openedItem::before {
+    background: #EEEEEE;
+    color: #EEEEEE;
+}
+
+.ePrimaryColor,
+.toplineBox:after {
+    color: #EEEEEE;
+}
+
+.select.gridLine .gridBox:before,
+.topline {
+    background-image: linear-gradient(79.26deg, #4D5EBF 0%, rgba(77, 94, 191, 0) 100%), linear-gradient(259.81deg, rgba(23, 23, 23, 0.85) -30.8%, rgba(23, 23, 23, 0) 97.6%);
+    background-color: #171717;
+}
+
+#pagesArea {
+    background: #242424;
+}
+
+.press i,
+.turn,
+.btn,
+.ico {
+    background-color: #47A0C1 !important;
+    border-radius: 10px;
+    border: none;
+    text-transform: uppercase;
+}
+
+.pressBoxTitle,
+.pressBox,
+.pressDrop {
+    color: #EEEEEE;
+}
+
+.webBtn {
+    background: #47A0C1;
+}
+
+.select.gridLine .select.gridBoxHier:before, .select.gridLine .select.gridBoxTree:before {
+    background: linear-gradient(90deg, #5671CD 0%, #488A87 100%);
+}
+
+.gridLine,
+.inputs {
+    background: rgba(238, 238, 238, 0.2);
+}
+
+.gridLineEven {
+    background: #EEEEEE;
+}
+
+.staticText {
+    color: #343434 !important;
+}
+
+.mainGroup.fullSize {
+    background: rgba(238, 238, 238, 0.5) !important;
+}
+
+.grid,
+.flowchart.panelsBorder.fullSize,
+.turn {
+    border-radius: 5px;
+}
