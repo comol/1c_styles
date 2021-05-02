@@ -1,0 +1,11 @@
+const template = `
+<div class="VS-tooltip" id="VS-tooltip">
+  <img alt="" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" with=30/>
+  <p>Для редактирования кода можно воспользоваться редактором 
+  <a href="https://code.visualstudio.com/download" target="_blank">VS Studio Code</a></p>
+<div>`;
+const renderInterval = setInterval(function() {
+    if(document.querySelector('#form1_VSC') && !document.querySelector('#VS-tooltip')){
+  form1_VSC.insertAdjacentHTML('beforeend', template);
+    }
+}, 1000);
