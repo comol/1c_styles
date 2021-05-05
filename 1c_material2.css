@@ -1,0 +1,305 @@
+#VW_page1ps0win {
+    height: 1000px;
+    border-radius: 4px;
+    border: none;
+    box-shadow: 0 11px 15px -7px rgba(0, 0, 0, 0.2),
+    0 24px 38px 3px rgba(0, 0, 0, 0.14),
+    0 9px 46px 8px rgba(0,0,0,.12);
+    background: #FFF;
+}
+
+#VW_page1ps0win * {
+    font-family: Roboto, sans-serif;
+    color: rgba(0,0,0,.6);
+    box-shadow: none;
+    border: none;
+}
+
+#VW_page1ps0win svg {
+    stroke: rgba(0,0,0,.87) !important;
+    fill: rgba(0,0,0,.87)!important;
+}
+
+#VW_page1ps0win .topline {
+    width: 100%;
+    padding: 20px 24px 9px;
+    font-size: 1.25rem;
+    line-height: 2rem;
+    font-weight: 500;
+    color: rgba(0, 0, 0, .87) !important;
+}
+
+.panelContainer {
+    height: auto !important;
+    top: 60px !important;
+    left: 8px !important;
+    width: 700px !important;
+}
+
+.panelContainer > div {
+    position: relative !important;
+    overflow: visible !important;
+}
+
+.toplineHome,
+.toplineNav,
+.toplineCenter,
+.toplineStar,
+.toplineBox {
+    margin: 0;
+}
+
+#VW_page1ps0headerTopLine_cmdf_FavButton {
+    margin-bottom: 15px;
+    margin-right: 5px;
+}
+
+#form1_ФормаКоманднаяПанель_div {
+    top: 10px !important;
+    left: 20px !important;
+    right: 20px !important;
+    width: auto !important;
+    height: auto !important;
+    background: #FFFFFF;
+    overflow: visible !important;
+    z-index: 3;
+}
+
+#VW_page1ps0formContent {
+    top: 50px !important;
+}
+
+/*Buttons*/
+
+.pressDefault,
+.pressCommand {
+    padding: 0 16px;
+    height: 36px;
+    font-size: .875rem;
+    line-height: 2.25rem;
+    font-weight: 500 !important;
+    text-transform: uppercase;
+    background: #6200ee !important;
+    box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2),0 2px 2px 0 rgba(0, 0, 0, 0.3),0 1px 5px 0px rgba(0,0,0,.6) !important;
+}
+
+.pressDefault:hover,
+.pressCommand:hover {
+    background: #6F18F0 !important;
+}
+
+.pressDefault .pressBox,
+.pressCommand .pressBox {
+    color: #ffffff !important;
+}
+
+.pressDefault i,
+.pressCommand i {
+    background: transparent;
+    border: none;
+}
+
+#form1_ПараметрыШаблонаПереместитьВверх,
+#form1_ПараметрыШаблонаПереместитьВниз,
+.pressCommand.pressMore {
+    background: #F9F9F9 !important;
+    box-shadow: none !important;
+}
+
+.pressCommand.pressMore .pressBox {
+    padding-right: 5px;
+    color: #6F18F0 !important;
+}
+
+.pressCommand.pressMore:hover,
+#form1_ПараметрыШаблонаПереместитьВверх:hover,
+#form1_ПараметрыШаблонаПереместитьВниз:hover {
+    background: #F2F2F2 !important;
+}
+
+.press {
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.press:hover i::before {
+    display: none;
+}
+
+.pressDrop:after {
+    border-top-color: #6F18F0;
+    border-bottom-color: #6F18F0;
+}
+
+.eActivityBack {
+    background-color: #6F18F0 !important;
+}
+
+/*Inputs*/
+
+label {
+    position: absolute;
+    z-index: 2;
+    left: 0;
+}
+
+.field,
+.inputs {
+    height: 56px !important;
+    background: #F5F5F5 !important;
+    border-radius: 4px 4px 0 0;
+}
+
+.btn:not(.iSB) {
+    background-color: #F5F5F5 !important;
+}
+
+#form1_Родитель_div {
+    left: 12px !important;
+    top: 11px !important;
+    height: 56px !important;
+    border-bottom: 1px solid #8E8E8E !important;
+}
+
+label[for=form1_Родитель_i0] {
+    top: 0 !important;
+}
+
+#form1_Картинка_div {
+    top: 31px !important;
+}
+
+label[for=form1_Картинка] {
+    top: -9px !important;
+}
+
+#form1_Картинка,
+#form1_Картинка_div {
+    width: 30px !important;
+    height: 30px !important;
+}
+
+.imageContainer {
+    border: none !important;
+}
+
+.imageContainer img {
+    top: 0 !important;
+    left: 0 !important;
+}
+
+label[for=form1_Наименование_i0] {
+    top: -141px !important;
+}
+
+#form1_Наименование_div {
+    left: 12px !important;
+    top: 51px !important;
+    height: 56px !important;
+    border-bottom: 1px solid #8E8E8E !important;
+}
+
+#form1_ТипЭтапа_div {
+    left: 12px !important;
+    top: 70px !important;
+    height: 56px !important;
+    border-bottom: 1px solid #8E8E8E !important;
+}
+
+label[for=form1_ТипЭтапа_i0] {
+    top: -152px !important;
+}
+
+.focusFrame {
+    background-color: transparent !important;
+}
+
+/*Tabs*/
+
+#form1_ГруппаСтраницы_div {
+    top: 100px !important;
+    width: 660px !important;
+    height: 190px !important;
+}
+
+#tabHeader_form1_ГруппаСтраницы {
+    height: 48px !important;
+}
+
+#form1_ГруппаСтраницы_container {
+    top: 48px !important;
+}
+
+.tabs:before {
+    background: #F5F5F5;
+}
+
+.tabs:after {
+    display: none;
+}
+
+.tabsItem {
+    padding: 0 30px;
+    background: #F5F5F5;
+    cursor: pointer;
+}
+
+.tabsItem:hover {
+    background: #F2F2F2;
+}
+
+.tabsItem.select::before {
+    border-bottom: 1px solid #6200ee;
+    bottom: 0;
+}
+
+.tabsItem:before {
+    background: transparent;
+    border: none;
+}
+
+.tabsItemTitle {
+    margin: 0;
+}
+
+.tabsItemTitle::before {
+    font-size: .875rem;
+    font-weight: 500 !important;
+    color: #6200ee !important;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.tabsItemTitle::before {
+    position: static !important;
+}
+
+.tabsItemTitle::after {
+    display: none !important;
+}
+
+#form1_СтраницаПараметры_div {
+    top: 20px !important;
+}
+
+#form1_ПараметрыШаблонаКоманднаяПанель_div {
+    height: 36px !important;
+    overflow: visible !important;
+    left: 0 !important;
+    right: 13px !important;
+    width: auto !important;
+}
+
+#form1_ПараметрыШаблона_div {
+    left: 0 !important;
+    top: 45px !important;
+    height: 200px !important;
+}
+
+.gridHead .gridBox {
+    background: #F5F5F5;
+}
+
+.gridHead .gridBox:before {
+    box-shadow: none !important;
+}
